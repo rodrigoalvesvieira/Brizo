@@ -29,6 +29,7 @@ browser the result of a query.
 See LICENSE file.
 
 [Fernando Fonseca]: http://www.di.ufpe.br/~fdfd/
+[Rodrigo Alves Vieira]: https://github.com/rodrigoalvesvieira
 [CIn/UFPE]: http://www2.cin.ufpe.br/site/index.php
 [Database course]: http://www.cin.ufpe.br/~if685/
 [here]: http://www.oracle.com/technetwork/database/features/jdbc/jdbc-drivers-12c-download-1958347.html
